@@ -6,4 +6,4 @@ Une entrée par jour de travail, de la plus récente à la plus ancienne.
 
 - Mise en ligne de mon projet de bootcamp DesCodeuses, [Le Lien](https://github.com/soumeya17/le-lien-analyse-programmation) : analyse de 168 événements culturels, avec correction de l'analyse faite pendant la semaine.
 - Création de ce carnet de bord pour suivre ma progression.
-- Certificat Google Data Analytics, cours 1 : découverte du Learning Log « Think about data in daily life ».
+- Certificat Google Data Analytics, cours 1 : premier Learning Log, « Think about data in daily life ». J'ai listé cinq questions de mon quotidien auxquelles des données pourraient répondre (sommeil, alimentation, énergie, concentration).
