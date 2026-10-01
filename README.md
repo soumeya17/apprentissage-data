@@ -17,6 +17,7 @@ Je suis en reconversion vers l'analyse de données. Ce dépôt rassemble ce que 
 | [`sql/`](sql/) | requêtes et exercices SQL |
 | [`python/`](python/) | exercices Python (pandas, visualisation) |
 | [`excel/`](excel/) | formules, tableaux croisés dynamiques, tableaux de bord |
+| [`projets/`](projets/) | petites analyses sur des données réelles de mon quotidien, comme le [logement social](projets/logement-social/) |
 
 ## Contact
 
